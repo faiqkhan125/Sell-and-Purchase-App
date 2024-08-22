@@ -1,0 +1,18 @@
+.bgcolor{
+    background-color: green;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 20px;
+}
+.maindiv{
+    padding: 10px;
+
+}
+
+.textbg{
+    color: green;
+}
+
+#para{
+    overflow-x: hidden;
+}
